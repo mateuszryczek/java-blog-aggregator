@@ -10,6 +10,6 @@
 Run this application using embedded Jetty server: <code>mvn -P dev jetty:run -Dspring.profiles.active="dev"</code>
 </p>
 
-<p>This will start embedded Jetty server on port 8081 and you can access your application here: <code>http://localhost:8080</code></p>
+<p>This will start embedded Jetty server on port 8081 and you can access your application here: <code>http://localhost:8081</code></p>
 
 <h3>You can test it here: <a href="https://top-java-blogs.herokuapp.com/" target="_blank" title="Top Java Blogs">Top Java Blogs</a><h3>
